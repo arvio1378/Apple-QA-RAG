@@ -56,8 +56,8 @@ streamlit run streamlit.py
 ## 📊 Dataset
 | Question    | Answer      |
 |-------------|-------------|
-| How do I take a screenshot on an iPhone? | To take a screenshot on an iPhone, press and hold the Side button and the Volume Up button simultaneously. The screen will flash briefly, and a thumbnail of the screenshot will appear in the bottom-left corner of the screen. Tap the thumbnail to view or edit the screenshot.   |
-| 5.1         | 47          |
-| 3.2         | 27          |
-| 8.5         | 75          |
+| How do I take a screenshot on an iPhone? | To take a screenshot on an iPhone, press and hold the Side button and the Volume Up button simultaneously. The screen will flash briefly, and a thumbnail of the screenshot will appear in the bottom-left corner of the screen. Tap the thumbnail to view or edit the screenshot. |
+| How do I change my wallpaper on an iPhone?         | To change your wallpaper on an iPhone, go to Settings > Wallpaper. Select whether you want to change the wallpaper for your Lock Screen, Home Screen, or both. Choose from a variety of built-in wallpapers or use your own photos.         |
+| How do I make a phone call on an iPhone?       | To make a phone call on an iPhone, open the Phone app and tap the Contacts tab. Find the contact you want to call and tap their name. Alternatively, you can enter a phone number manually in the dial pad.         |
+| How do I send a text message on an iPhone?        | To send a text message on an iPhone, open the Messages app and tap the New Message button. Enter the name or phone number of the person you want to text, and then type your message. Tap the Send button when you're done.          |
 | ...         | ...         |
