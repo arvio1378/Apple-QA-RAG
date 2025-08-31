@@ -61,3 +61,19 @@ streamlit run streamlit.py
 | How do I make a phone call on an iPhone?       | To make a phone call on an iPhone, open the Phone app and tap the Contacts tab. Find the contact you want to call and tap their name. Alternatively, you can enter a phone number manually in the dial pad.         |
 | How do I send a text message on an iPhone?        | To send a text message on an iPhone, open the Messages app and tap the New Message button. Enter the name or phone number of the person you want to text, and then type your message. Tap the Send button when you're done.          |
 | ...         | ...         |
+
+Information about dataset attributes :
+- Question : Pertanyaan seputar produk apple
+- Answer : Jawaban dari pertanyaan produk apple yang ditanyakan
+
+## 📈 Hasil & Evaluasi
+Berikut ini adalah beberapa pertanyaan dan bagaimana model dapat menjawab pertanyaan tersebut.
+1. - Question : Can i use calculator on iphone and how ?
+   - System : According to the previous questions and answers, you can use the Calculator app on an iPhone by:
+      Opening the Calculator app.
+      Using the standard calculator interface to perform basic arithmetic operations (addition, subtraction, multiplication, and division).
+      Swiping to the left to reveal a scientific calculator with more advanced functions.
+      So, to answer your question: To use the calculator on your iPhone, open the Calculator app and start performing calculations using the basic or scientific calculator interfaces!
+
+2. Question : What should I do if my AirPods Pro are not connecting?
+   System : Check the Bluetooth settings, reset them, or contact Apple Support for help.
