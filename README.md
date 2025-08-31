@@ -70,10 +70,24 @@ Information about dataset attributes :
 Berikut ini adalah beberapa pertanyaan dan bagaimana model dapat menjawab pertanyaan tersebut.
 1. - Question : Can i use calculator on iphone and how ?
    - System : According to the previous questions and answers, you can use the Calculator app on an iPhone by:
-      Opening the Calculator app.
-      Using the standard calculator interface to perform basic arithmetic operations (addition, subtraction, multiplication, and division).
-      Swiping to the left to reveal a scientific calculator with more advanced functions.
-      So, to answer your question: To use the calculator on your iPhone, open the Calculator app and start performing calculations using the basic or scientific calculator interfaces!
+       - Opening the Calculator app.
+       - Using the standard calculator interface to perform basic arithmetic operations (addition, subtraction, multiplication, and division).
+       - Swiping to the left to reveal a scientific calculator with more advanced functions.
+     So, to answer your question: To use the calculator on your iPhone, open the Calculator app and start performing calculations using the basic or scientific calculator interfaces!
 
-2. Question : What should I do if my AirPods Pro are not connecting?
-   System : Check the Bluetooth settings, reset them, or contact Apple Support for help.
+2. - Question : How to check RAM of a mac ?
+   - System : According to the provided context, to check the amount of RAM in your Mac:
+     Helpful Answer: Click on the Apple menu and select "About This Mac", it will display the amount of RAM.
+
+3. - Question : Can I use keyboard and mouse for apple TV ?
+   - System : According to the provided context, it seems that:
+     Yes, you can pair a Bluetooth keyboard and mouse with your Apple TV.
+
+Dari Hasil tersebut dapat disimpulkan bahwa model dapat menjawab pertanyaan sesuai konteks yang ditanyakan dengan baik dan sesuai.
+
+## 🧑‍💻 Tentang Saya
+Saya sedang belajar dan membangun karir di bidang AI/ML. Projek ini adalah latihan saya untuk membangun aplikasi python sederhana. Saya ingin lebih untuk mengembangkan skill saya di bidang ini melalui projek-projek yang ada.
+
+📫 Terhubung dengan saya di:
+- Linkedin : https://www.linkedin.com/in/arvio-abe-suhendar/
+- Github : https://github.com/arvio1378
