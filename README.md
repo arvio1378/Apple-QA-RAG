@@ -8,3 +8,22 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk Proyek ini ad
 - Menjawab pertanyaan seputar produk Apple
 - Antarmuka sederhana menggunakan Streamlit
 - Menggunakan RAG untuk menggabungkan retrieval + model LLM
+
+## 🧠 Tools & Library
+- Python
+- Langchain
+- Streamlit
+- Chromadb
+- Pandas
+- LLM
+
+## 📁 Struktur Folder
+- Apple QA RAG/
+  - data
+      - apple.csv
+  - src
+      - chroma_db
+      - chatbot.ipynb
+  - streamlit.py
+  - requirements.txt
+  - README.md
