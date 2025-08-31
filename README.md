@@ -39,3 +39,25 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk Proyek ini ad
 8. LLM : Memproses jawaban dari konteks kemiripan dari retriever
 
 ## 🖥️ Cara Menjalankan Program
+1. Clone repositori
+```bash
+git clone https://github.com/arvio1378/Apple-QA-RAG.git
+cd Apple QA RA
+```
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Jalankan Program
+```bash
+streamlit run streamlit.py
+```
+
+## 📊 Dataset
+| Question    | Answer      |
+|-------------|-------------|
+| How do I take a screenshot on an iPhone? | To take a screenshot on an iPhone, press and hold the Side button and the Volume Up button simultaneously. The screen will flash briefly, and a thumbnail of the screenshot will appear in the bottom-left corner of the screen. Tap the thumbnail to view or edit the screenshot.   |
+| 5.1         | 47          |
+| 3.2         | 27          |
+| 8.5         | 75          |
+| ...         | ...         |
