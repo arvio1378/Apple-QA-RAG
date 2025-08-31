@@ -15,7 +15,7 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk Proyek ini ad
 - Streamlit
 - Chromadb
 - Pandas
-- LLM ()
+- LLM
 
 ## 📁 Struktur Folder
 - Apple QA RAG/
