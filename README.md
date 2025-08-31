@@ -15,7 +15,8 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk Proyek ini ad
 - Streamlit
 - Chromadb
 - Pandas
-- LLM
+- LLM Model : llama3
+- Embedding Model : Qwen/Qwen3-Embedding-0.6B
 
 ## 📁 Struktur Folder
 - Apple QA RAG/
@@ -33,10 +34,10 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk Proyek ini ad
 2. Cleaning Data
 3. Convert csv menjadi dokumen
 4. Chunking : memecah teks yang besar menjadi beberapa bagian kecil
-5. Embedding : mengubah teks menjadi vektor angka (Qwen/Qwen3-Embedding-0.6B)
+5. Embedding : mengubah teks menjadi vektor angka
 6. Vector Store : Menyimpan vektor angka ke vector database
 7. Retriever : mencari dari vector database hasil yang paling mirip untuk diambil
-8. LLM : Memproses jawaban dari konteks kemiripan dari retriever (llama3)
+8. LLM : Memproses jawaban dari konteks kemiripan dari retriever
 
 ## 🖥️ Cara Menjalankan Program
 1. Clone repositori
