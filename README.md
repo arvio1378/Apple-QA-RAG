@@ -29,7 +29,7 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi untuk Proyek ini ad
   - requirements.txt
   - README.md
  
-🛠️ Arsitektur
+## 🛠️ Arsitektur
 1. Load Dataset
 2. Cleaning Data
 3. Convert csv menjadi dokumen
