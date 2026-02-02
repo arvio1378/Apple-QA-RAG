@@ -43,7 +43,7 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi tentang Question An
 1. Clone repositori
 ```bash
 git clone https://github.com/arvio1378/Apple-QA-RAG.git
-cd Apple QA RA
+cd Apple QA RAG
 ```
 2. Install dependencies
 ```bash
