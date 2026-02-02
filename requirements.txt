@@ -1,7 +1,6 @@
 streamlit==1.36.0
 langchain==0.2.5
 langchain-community==0.2.5
-langchain-core==0.2.5
 chromadb==0.5.3
 pypdf==4.2.0
 python-dotenv==1.0.1
@@ -11,8 +10,4 @@ numpy==1.26.4
 scikit-learn==1.4.2
 sentence-transformers==2.7.0
 torch==2.3.0
-<<<<<<< HEAD
 transformers==4.41.2
-=======
-transformers==4.41.2
->>>>>>> 7a21bb2cea7c85e62e7a92a9a102d2a45e447e21
